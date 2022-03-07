@@ -14,7 +14,7 @@ ABOUT ME :
 
 - 📄 Know about my experiences [https://b33pl0p.github.io/](https://b33pl0p.github.io/)
 
-- ⚡ Fun fact **I play guitar**
+- ⚡ Fun fact : **I play guitar**
 
 
 
