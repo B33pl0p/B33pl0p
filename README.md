@@ -2,7 +2,7 @@ ABOUT ME :
 <h1 align="center">HELLO 👋, I'm BIPLOP GIRI</h1>
 <h3 align="center">A computer enthusiast from Nepal</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1D1qhZvCSRShi0ybtqjdgH3YzBNHR_KcK/view?usp=sharing"/> </p>
+<p align="left"> <img src="https://scontent.fktm10-1.fna.fbcdn.net/v/t39.30808-6/246333003_3199198600365383_8479675931251225736_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=IolrzwDxfIgAX8El8nU&_nc_ht=scontent.fktm10-1.fna&oh=00_AT83hCo9-bTigkbVmBVJIK9FtFboXgIp6885yJ7ig7smIA&oe=623A15CA"/> </p>
 
 
 
