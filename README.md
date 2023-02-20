@@ -4,7 +4,6 @@
 </div>
 
 
-
 # 💫 About Me:
 👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning Machine Learning and C#<br>💬 Ask me about C, C++, Python, Linux, & Music Theory 😄<br>⚡ Fun fact : I'm a guitarist
 
